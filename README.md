@@ -1,8 +1,6 @@
 # aspnet-core-signalr-stock-ticker
 
-Clone of Stock Ticker sample adapted for ASP.NET Core 2.1 SignalR and React
-
-Source sample: https://github.com/SignalR/SignalR-StockTicker
+Clone of basic [Stock Ticker sample](https://github.com/SignalR/SignalR-StockTicker) adapted for ASP.NET Core 2.1 SignalR and React.js
 
 How to start:
 
@@ -21,4 +19,3 @@ How to start:
 
 
 ![Sapmle](https://github.com/afedyanin/aspnet-core-signalr-stock-ticker/blob/master/sample.png)
-
